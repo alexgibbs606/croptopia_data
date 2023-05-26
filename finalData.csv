@@ -1,0 +1,292 @@
+name,source,category,hunger,saturation
+Artichoke,FarmlandCrop,Vegetables,1,0.2
+Asparagus,FarmlandCrop,Vegetables,3,0.6
+Barley,FarmlandCrop,Grain,1,0.2
+Basil,FarmlandCrop,Crops,1,0.2
+Bellpepper,FarmlandCrop,Fruits,3,0.6
+Blackbean,FarmlandCrop,Crops,3,0.6
+Blackberry,FarmlandCrop,Fruits,3,0.6
+Blueberry,FarmlandCrop,Fruits,3,0.6
+Broccoli,FarmlandCrop,Vegetables,3,0.6
+Cabbage,FarmlandCrop,Vegetables,1,0.2
+Cantaloupe,FarmlandCrop,Fruits,3,0.6
+Cauliflower,FarmlandCrop,Vegetables,3,0.6
+Celery,FarmlandCrop,Vegetables,3,0.6
+Chile Pepper,FarmlandCrop,Crops,3,0.6
+Coffee Beans,FarmlandCrop,Crops,3,0.6
+Corn,FarmlandCrop,Grain,3,0.6
+Cranberry,FarmlandCrop,Fruits,3,0.6
+Cucumber,FarmlandCrop,Vegetables,3,0.6
+Currant,FarmlandCrop,Fruits,3,0.6
+Eggplant,FarmlandCrop,Vegetables,3,0.6
+Elderberry,FarmlandCrop,Fruits,3,0.6
+Garlic,FarmlandCrop,Vegetables,1,0.2
+Ginger,FarmlandCrop,Vegetables,,
+Grape,FarmlandCrop,Fruits,3,0.6
+Greenbean,FarmlandCrop,Vegetables,3,0.6
+Greenonion,FarmlandCrop,Vegetables,1,0.2
+Honeydew,FarmlandCrop,Fruits,3,0.6
+Hops,FarmlandCrop,Crops,,
+Kale,FarmlandCrop,Vegetables,3,0.6
+Kiwi,FarmlandCrop,Fruits,3,0.6
+Leek,FarmlandCrop,Vegetables,3,0.6
+Lettuce,FarmlandCrop,Vegetables,3,0.6
+Mustard,FarmlandCrop,Vegetables,,
+Oat,FarmlandCrop,Grain,1,0.2
+Olive,FarmlandCrop,Fruits,3,0.6
+Onion,FarmlandCrop,Vegetables,3,0.6
+Peanut,FarmlandCrop,Crops,1,0.2
+Pepper,FarmlandCrop,Crops,,
+Pineapple,FarmlandCrop,Fruits,3,0.6
+Radish,FarmlandCrop,Vegetables,3,0.6
+Raspberry,FarmlandCrop,Fruits,3,0.6
+Rhubarb,FarmlandCrop,Vegetables,3,0.6
+Rice,FarmlandCrop,Grain,1,0.2
+Rutabaga,FarmlandCrop,Vegetables,3,0.6
+Saguaro,FarmlandCrop,Fruits,3,0.6
+Soybean,FarmlandCrop,Vegetables,1,0.2
+Spinach,FarmlandCrop,Vegetables,3,0.6
+Squash,FarmlandCrop,Vegetables,3,0.6
+Strawberry,FarmlandCrop,Fruits,3,0.6
+Sweetpotato,FarmlandCrop,Vegetables,3,0.6
+Tea Leaves,FarmlandCrop,Crops,,
+Tomatillo,FarmlandCrop,Vegetables,3,0.6
+Tomato,FarmlandCrop,Vegetables,3,0.6
+Turmeric,FarmlandCrop,Crops,,
+Turnip,FarmlandCrop,Vegetables,3,0.6
+Vanilla,FarmlandCrop,Crops,,
+Yam,FarmlandCrop,Vegetables,3,0.6
+Zucchini,FarmlandCrop,Vegetables,3,0.6
+Anchovy,Seafood,,1,0.2
+Calamari,Seafood,,1,0.2
+Clam,Seafood,,3,0.6
+Crab,Seafood,,1,0.2
+Glowing Calamari,Seafood,,3,0.6
+Oyster,Seafood,,3,0.6
+Roe,Seafood,,1,0.2
+Shrimp,Seafood,,1,0.2
+Tuna,Seafood,,3,0.6
+Baked Beans,Furnace,,5,1.2
+Baked Sweet Potato,Furnace,,5,1.2
+Baked Yam,Furnace,,5,1.2
+Caramel,Furnace,,,
+Cooked Anchovy,Furnace,,4,0.6
+Cooked Bacon,Furnace,,7,1.2
+Cooked Calamari,Furnace,,5,1.2
+Cooked Shrimp,Furnace,,5,1.2
+Cooked Tuna,Furnace,,6,1.2
+Molasses,Furnace,,,
+Popcorn,Furnace,,3,0.6
+Raisins,Furnace,,5,1.2
+Toast,Furnace,,7,1.2
+Apple Juice,Juice,,5,1.2
+Cranberry Juice,Juice,,5,1.2
+Grape Juice,Juice,,5,1.2
+Melon Juice,Juice,,5,1.2
+Orange Juice,Juice,,5,1.2
+Pineapple Juice,Juice,,5,1.2
+Saguaro Juice,Juice,,5,1.2
+Tomato Juice,Juice,,5,1.2
+Apricot Jam,Jam,,3,0.6
+Blackberry Jam,Jam,,3,0.6
+Blueberry Jam,Jam,,3,0.6
+Cherry Jam,Jam,,3,0.6
+Elderberry Jam,Jam,,3,0.6
+Grape Jam,Jam,,3,0.6
+Peach Jam,Jam,,3,0.6
+Raspberry Jam,Jam,,3,0.6
+Strawberry Jam,Jam,,3,0.6
+Banana Smoothie,Smoothie,,7,1.2
+Strawberry Smoothie,Smoothie,,7,1.2
+Mango Ice Cream,IceCream,,10,1.6
+Pecan Ice Cream,IceCream,,10,1.6
+Strawberry Ice Cream,IceCream,,10,1.6
+Vanilla Ice Cream,IceCream,,10,1.6
+Apple Pie,Pie,,14,2
+Cherry Pie,Pie,,14,2
+Pecan Pie,Pie,,14,2
+Rhubarb Pie,Pie,,14,2
+Paprika,Item,,,
+Salt,Item,,,
+Olive Oil,Item,,,
+Cheese,Item,,5,1.2
+Flour,Item,,,
+Butter,Item,,3,0.6
+Noodle,Item,,,
+Tofu,Item,,5,1.2
+Chocolate,Item,,5,1.2
+Tortilla,Item,,5,1.2
+Soy Sauce,Item,,,
+Dough,Item,,,
+Ravioli,Item,,,
+Salsa,Item,,5,1.2
+Artichoke Dip,Item,,5,1.2
+Pepperoni,Item,,5,1.2
+Coffee,Drink,,5,1.2
+Lemonade,Drink,,5,1.2
+Limeade,Drink,,5,1.2
+Soy Milk,Drink,,5,1.2
+Kale Smoothie,Drink,,14,2
+Fruit Smoothie,Drink,,7,1.2
+Chocolate Milkshake,Drink,,7,1.2
+Beer,Drink,,7,1.2
+Wine,Drink,,7,1.2
+Mead,Drink,,7,1.2
+Rum,Drink,,7,1.2
+Pumpkin Spice Latte,Drink,,14,2
+Beef Jerky,Item,,5,1.2
+Pork Jerky,Item,,5,1.2
+Kale Chips,Item,,5,1.2
+Potato Chips,Item,,5,1.2
+Steamed Rice,Item,,5,1.2
+French Fries,Item,,5,1.2
+Sweet Potato Fries,Item,,5,1.2
+Onion Rings,Item,,5,1.2
+Doughnut,Item,,5,1.2
+Cucumber Salad,Soup,,10,1.6
+Caesar Salad,Soup,,10,1.6
+Leafy Salad,Soup,,10,1.6
+Fruit Salad,Soup,,10,1.6
+Veggie Salad,Soup,,10,1.6
+Pork And Beans,Soup,,10,1.6
+Oatmeal,Soup,,7,1.2
+Leek Soup,Soup,,7,1.2
+Yoghurt,Soup,,5,1.2
+Saucy Chips,Soup,,7,1.2
+Roasted Nuts,Item,,5,1.2
+Trail Mix,Item,,10,1.6
+Protein Bar,Item,,10,1.6
+Nougat,Item,,7,1.2
+Scrambled Eggs,Item,,7,1.2
+Buttered Toast,Item,,9,1.5
+Toast With Jam,Item,,9,1.5
+Ham Sandwich,Item,,10,1.6
+Peanut Butter And Jam,Item,,10,1.6
+Blt,Item,,10,1.6
+Grilled Cheese,Item,,7,1.2
+Tuna Sandwich,Item,,10,1.6
+Cheeseburger,Item,,10,1.6
+Hamburger,Item,,10,1.6
+Tofuburger,Item,,10,1.6
+Pizza,Item,,10,1.6
+Supreme Pizza,Item,,18,2.4
+Cheese Pizza,Item,,14,2
+Pineapple Pepperoni Pizza,Item,,18,2.4
+Lemon Chicken,Item,,10,1.6
+Fried Chicken,Item,,10,1.6
+Chicken And Noodles,Item,,10,1.6
+Chicken And Dumplings,Item,,10,1.6
+Tofu And Dumplings,Item,,14,2
+Spaghetti Squash,Item,,10,1.6
+Chicken And Rice,Item,,10,1.6
+Taco,Item,,10,1.6
+Sushi,Item,,10,1.6
+Egg Roll,Item,,10,1.6
+Cashew Chicken,Item,,14,2
+Yam Jam,Item,,14,2
+Banana Cream Pie,Item,,14,2
+Candy Corn,Item,,5,1.2
+Rum Raisin Ice Cream,Item,,14,2
+Cheese Cake,Item,,14,2
+Brownies,Item,,10,1.6
+Snicker Doodle,Item,,7,1.2
+Banana Nut Bread,Item,,10,1.6
+Candied Nuts,Item,,5,1.2
+Almond Brittle,Item,,7,1.2
+Oatmeal Cookie,Item,,5,1.2
+Nutty Cookie,Item,,5,1.2
+Burrito,Item,,10,1.6
+Tostada,Item,,10,1.6
+Horchata,Drink,,10,1.6
+Carnitas,Item,,10,1.6
+Fajitas,Item,,10,1.6
+Enchilada,Item,,10,1.6
+Churros,Item,,5,1.2
+Tamales,Item,,14,2
+Tres Leche Cake,Item,,18,2.4
+Stuffed Poblanos,Item,,14,2
+Chili Relleno,Item,,14,2
+Crema,Item,,3,0.6
+Refried Beans,Item,,7,1.2
+Chimichanga,Item,,14,2
+Quesadilla,Item,,10,1.6
+Corn Husk,Item,,,
+Whipping Cream,Item,,,
+Shepherds Pie,Item,,18,2.4
+Beef Wellington,Item,,18,2.4
+Fish And Chips,Item,,10,1.6
+Eton Mess,Item,,10,1.6
+Tea,Drink,,5,1.2
+Cornish Pasty,Item,,10,1.6
+Scones,Item,,10,1.6
+Figgy Pudding,Item,,10,1.6
+Treacle Tart,Item,,10,1.6
+Sticky Toffee Pudding,Item,,14,2
+Trifle,Item,,14,2
+Water Bottle,Item,,,
+Milk Bottle,Item,,,
+Ajvar,Item,,7,1.2
+Ajvar Toast,Item,,14,2
+Avocado Toast,Item,,10,1.6
+Beef Stew,Item,,14,2
+Beef Stir Fry,Item,,14,2
+Buttered Green Beans,Item,,10,1.6
+Cheesy Asparagus,Item,,10,1.6
+Chocolate Ice Cream,Item,,14,2
+Eggplant Parmesan,Item,,18,2.4
+Fruit Cake,Item,,10,1.6
+Grilled Eggplant,Item,,10,1.6
+Kiwi Sorbet,Item,,7,1.2
+Lemon Coconut Bar,Item,,7,1.2
+Nether Wart Stew,Item,,7,1.2
+Peanut Butter,Item,,5,1.2
+Peanut Butter W Celery,Item,,7,1.2
+Potato Soup,Item,,10,1.6
+Ratatouille,Item,,18,2.4
+Raw Bacon,Item,,1,0.2
+Rhubarb Crisp,Item,,10,1.6
+Roasted Asparagus,Item,,7,1.2
+Roasted Radishes,Item,,7,1.2
+Roasted Squash,Item,,7,1.2
+Roasted Turnips,Item,,7,1.2
+Steamed Broccoli,Item,,7,1.2
+Steamed Green Beans,Item,,7,1.2
+Stir Fry,Item,,12,1.8
+Stuffed Artichoke,Item,,18,2.4
+Toast Sandwich,Item,,10,1.6
+Roasted Pumpkin Seeds,Item,,4,0.6
+Roasted Sunflower Seeds,Item,,4,0.6
+Pumpkin Bars,Item,,6,1.2
+Corn Bread,Item,,5,1.2
+Pumpkin Soup,Soup,,10,1.6
+Meringue,Item,,6,1.2
+Cabbage Roll,Item,,14,2
+Borscht,Item,,12,1.8
+Goulash,Item,,16,2.2
+Beetroot Salad,Item,,10,1.6
+Candied Kumquats,Item,,6,1.2
+Steamed Crab,Item,,6,1.2
+Sea Lettuce,Item,,1,0.2
+Deep Fried Shrimp,Item,,10,1.6
+Tuna Roll,Item,,10,1.6
+Fried Calamari,Item,,10,1.6
+Crab Legs,Item,,11,1.7
+Steamed Clams,Item,,11,1.7
+Grilled Oysters,Item,,11,1.7
+Anchovy Pizza,Item,,15,2.1
+Mashed Potatoes,Item,,9,1.5
+Baked Crepes,Item,,12,1.8
+Cinnamon Roll,Item,,8,1.2
+Croque Madame,Item,,14,2
+Croque Monsieur,Item,,13,1.9
+Dauphine Potatoes,Item,,12,1.8
+Fried Frog Legs,Item,,6,1.2
+Frog Legs,Item,,3,0.6
+Ground Pork,Item,,1,0.2
+Hashed Brown,Item,,2,0.2
+Macaron,Item,,5,1.2
+Quiche,Item,,12,1.8
+Sausage,Item,,3,0.6
+Sunny Side Eggs,Item,,5,1.2
+Sweet Crepes,Item,,8,1.2
+The Big Breakfast,ReferenceItem,,20,2.6

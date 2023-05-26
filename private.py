@@ -1,0 +1,1 @@
+CROPTOPIA_WORKSPACE = r'C:\Users\AleX\x\croptopia'
