@@ -1,0 +1,2046 @@
+{| class="sortable mw-collapsible mw-collapsed wikitable"
+|+ Croptopia Items
+|name
+|icons
+|source
+|category
+|hunger
+|saturation
+|-
+|[[Artichoke]]
+|{{Empty Grid|artichoke}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|1}}
+|{{saturation|1}}
+|-
+|[[Asparagus]]
+|{{Empty Grid|asparagus}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Barley]]
+|{{Empty Grid|barley}}
+|FarmlandCrop
+|Grain
+|{{Hunger|1}}
+|{{saturation|1}}
+|-
+|[[Basil]]
+|{{Empty Grid|basil}}
+|FarmlandCrop
+|Crops
+|{{Hunger|1}}
+|{{saturation|1}}
+|-
+|[[Bellpepper]]
+|{{Empty Grid|bellpepper}}
+|FarmlandCrop
+|Fruits
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Blackbean]]
+|{{Empty Grid|blackbean}}
+|FarmlandCrop
+|Crops
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Blackberry]]
+|{{Empty Grid|blackberry}}
+|FarmlandCrop
+|Fruits
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Blueberry]]
+|{{Empty Grid|blueberry}}
+|FarmlandCrop
+|Fruits
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Broccoli]]
+|{{Empty Grid|broccoli}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Cabbage]]
+|{{Empty Grid|cabbage}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|1}}
+|{{saturation|1}}
+|-
+|[[Cantaloupe]]
+|{{Empty Grid|cantaloupe}}
+|FarmlandCrop
+|Fruits
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Cauliflower]]
+|{{Empty Grid|cauliflower}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Celery]]
+|{{Empty Grid|celery}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Chile Pepper]]
+|{{Empty Grid|chile pepper}}
+|FarmlandCrop
+|Crops
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Coffee Beans]]
+|{{Empty Grid|coffee beans}}
+|FarmlandCrop
+|Crops
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Corn]]
+|{{Empty Grid|corn}}
+|FarmlandCrop
+|Grain
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Cranberry]]
+|{{Empty Grid|cranberry}}
+|FarmlandCrop
+|Fruits
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Cucumber]]
+|{{Empty Grid|cucumber}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Currant]]
+|{{Empty Grid|currant}}
+|FarmlandCrop
+|Fruits
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Eggplant]]
+|{{Empty Grid|eggplant}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Elderberry]]
+|{{Empty Grid|elderberry}}
+|FarmlandCrop
+|Fruits
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Garlic]]
+|{{Empty Grid|garlic}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|1}}
+|{{saturation|1}}
+|-
+|[[Ginger]]
+|{{Empty Grid|ginger}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|}}
+|{{saturation|}}
+|-
+|[[Grape]]
+|{{Empty Grid|grape}}
+|FarmlandCrop
+|Fruits
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Greenbean]]
+|{{Empty Grid|greenbean}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Greenonion]]
+|{{Empty Grid|greenonion}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|1}}
+|{{saturation|1}}
+|-
+|[[Honeydew]]
+|{{Empty Grid|honeydew}}
+|FarmlandCrop
+|Fruits
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Hops]]
+|{{Empty Grid|hops}}
+|FarmlandCrop
+|Crops
+|{{Hunger|}}
+|{{saturation|}}
+|-
+|[[Kale]]
+|{{Empty Grid|kale}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Kiwi]]
+|{{Empty Grid|kiwi}}
+|FarmlandCrop
+|Fruits
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Leek]]
+|{{Empty Grid|leek}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Lettuce]]
+|{{Empty Grid|lettuce}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Mustard]]
+|{{Empty Grid|mustard}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|}}
+|{{saturation|}}
+|-
+|[[Oat]]
+|{{Empty Grid|oat}}
+|FarmlandCrop
+|Grain
+|{{Hunger|1}}
+|{{saturation|1}}
+|-
+|[[Olive]]
+|{{Empty Grid|olive}}
+|FarmlandCrop
+|Fruits
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Onion]]
+|{{Empty Grid|onion}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Peanut]]
+|{{Empty Grid|peanut}}
+|FarmlandCrop
+|Crops
+|{{Hunger|1}}
+|{{saturation|1}}
+|-
+|[[Pepper]]
+|{{Empty Grid|pepper}}
+|FarmlandCrop
+|Crops
+|{{Hunger|}}
+|{{saturation|}}
+|-
+|[[Pineapple]]
+|{{Empty Grid|pineapple}}
+|FarmlandCrop
+|Fruits
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Radish]]
+|{{Empty Grid|radish}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Raspberry]]
+|{{Empty Grid|raspberry}}
+|FarmlandCrop
+|Fruits
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Rhubarb]]
+|{{Empty Grid|rhubarb}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Rice]]
+|{{Empty Grid|rice}}
+|FarmlandCrop
+|Grain
+|{{Hunger|1}}
+|{{saturation|1}}
+|-
+|[[Rutabaga]]
+|{{Empty Grid|rutabaga}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Saguaro]]
+|{{Empty Grid|saguaro}}
+|FarmlandCrop
+|Fruits
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Soybean]]
+|{{Empty Grid|soybean}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|1}}
+|{{saturation|1}}
+|-
+|[[Spinach]]
+|{{Empty Grid|spinach}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Squash]]
+|{{Empty Grid|squash}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Strawberry]]
+|{{Empty Grid|strawberry}}
+|FarmlandCrop
+|Fruits
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Sweetpotato]]
+|{{Empty Grid|sweetpotato}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Tea Leaves]]
+|{{Empty Grid|tea leaves}}
+|FarmlandCrop
+|Crops
+|{{Hunger|}}
+|{{saturation|}}
+|-
+|[[Tomatillo]]
+|{{Empty Grid|tomatillo}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Tomato]]
+|{{Empty Grid|tomato}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Turmeric]]
+|{{Empty Grid|turmeric}}
+|FarmlandCrop
+|Crops
+|{{Hunger|}}
+|{{saturation|}}
+|-
+|[[Turnip]]
+|{{Empty Grid|turnip}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Vanilla]]
+|{{Empty Grid|vanilla}}
+|FarmlandCrop
+|Crops
+|{{Hunger|}}
+|{{saturation|}}
+|-
+|[[Yam]]
+|{{Empty Grid|yam}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Zucchini]]
+|{{Empty Grid|zucchini}}
+|FarmlandCrop
+|Vegetables
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Anchovy]]
+|{{Empty Grid|anchovy}}
+|Seafood
+|
+|{{Hunger|1}}
+|{{saturation|1}}
+|-
+|[[Calamari]]
+|{{Empty Grid|calamari}}
+|Seafood
+|
+|{{Hunger|1}}
+|{{saturation|1}}
+|-
+|[[Clam]]
+|{{Empty Grid|clam}}
+|Seafood
+|
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Crab]]
+|{{Empty Grid|crab}}
+|Seafood
+|
+|{{Hunger|1}}
+|{{saturation|1}}
+|-
+|[[Glowing Calamari]]
+|{{Empty Grid|glowing calamari}}
+|Seafood
+|
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Oyster]]
+|{{Empty Grid|oyster}}
+|Seafood
+|
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Roe]]
+|{{Empty Grid|roe}}
+|Seafood
+|
+|{{Hunger|1}}
+|{{saturation|1}}
+|-
+|[[Shrimp]]
+|{{Empty Grid|shrimp}}
+|Seafood
+|
+|{{Hunger|1}}
+|{{saturation|1}}
+|-
+|[[Tuna]]
+|{{Empty Grid|tuna}}
+|Seafood
+|
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Baked Beans]]
+|{{Empty Grid|baked beans}}
+|Furnace
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Baked Sweet Potato]]
+|{{Empty Grid|baked sweet potato}}
+|Furnace
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Baked Yam]]
+|{{Empty Grid|baked yam}}
+|Furnace
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Caramel]]
+|{{Empty Grid|caramel}}
+|Furnace
+|
+|{{Hunger|}}
+|{{saturation|}}
+|-
+|[[Cooked Anchovy]]
+|{{Empty Grid|cooked anchovy}}
+|Furnace
+|
+|{{Hunger|4}}
+|{{saturation|3}}
+|-
+|[[Cooked Bacon]]
+|{{Empty Grid|cooked bacon}}
+|Furnace
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Cooked Calamari]]
+|{{Empty Grid|cooked calamari}}
+|Furnace
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Cooked Shrimp]]
+|{{Empty Grid|cooked shrimp}}
+|Furnace
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Cooked Tuna]]
+|{{Empty Grid|cooked tuna}}
+|Furnace
+|
+|{{Hunger|6}}
+|{{saturation|8}}
+|-
+|[[Molasses]]
+|{{Empty Grid|molasses}}
+|Furnace
+|
+|{{Hunger|}}
+|{{saturation|}}
+|-
+|[[Popcorn]]
+|{{Empty Grid|popcorn}}
+|Furnace
+|
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Raisins]]
+|{{Empty Grid|raisins}}
+|Furnace
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Toast]]
+|{{Empty Grid|toast}}
+|Furnace
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Apple Juice]]
+|{{Empty Grid|apple juice}}
+|Juice
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Cranberry Juice]]
+|{{Empty Grid|cranberry juice}}
+|Juice
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Grape Juice]]
+|{{Empty Grid|grape juice}}
+|Juice
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Melon Juice]]
+|{{Empty Grid|melon juice}}
+|Juice
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Orange Juice]]
+|{{Empty Grid|orange juice}}
+|Juice
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Pineapple Juice]]
+|{{Empty Grid|pineapple juice}}
+|Juice
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Saguaro Juice]]
+|{{Empty Grid|saguaro juice}}
+|Juice
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Tomato Juice]]
+|{{Empty Grid|tomato juice}}
+|Juice
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Apricot Jam]]
+|{{Empty Grid|apricot jam}}
+|Jam
+|
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Blackberry Jam]]
+|{{Empty Grid|blackberry jam}}
+|Jam
+|
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Blueberry Jam]]
+|{{Empty Grid|blueberry jam}}
+|Jam
+|
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Cherry Jam]]
+|{{Empty Grid|cherry jam}}
+|Jam
+|
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Elderberry Jam]]
+|{{Empty Grid|elderberry jam}}
+|Jam
+|
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Grape Jam]]
+|{{Empty Grid|grape jam}}
+|Jam
+|
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Peach Jam]]
+|{{Empty Grid|peach jam}}
+|Jam
+|
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Raspberry Jam]]
+|{{Empty Grid|raspberry jam}}
+|Jam
+|
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Strawberry Jam]]
+|{{Empty Grid|strawberry jam}}
+|Jam
+|
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Banana Smoothie]]
+|{{Empty Grid|banana smoothie}}
+|Smoothie
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Strawberry Smoothie]]
+|{{Empty Grid|strawberry smoothie}}
+|Smoothie
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Mango Ice Cream]]
+|{{Empty Grid|mango ice cream}}
+|IceCream
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Pecan Ice Cream]]
+|{{Empty Grid|pecan ice cream}}
+|IceCream
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Strawberry Ice Cream]]
+|{{Empty Grid|strawberry ice cream}}
+|IceCream
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Vanilla Ice Cream]]
+|{{Empty Grid|vanilla ice cream}}
+|IceCream
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Apple Pie]]
+|{{Empty Grid|apple pie}}
+|Pie
+|
+|{{Hunger|14}}
+|{{saturation|28}}
+|-
+|[[Cherry Pie]]
+|{{Empty Grid|cherry pie}}
+|Pie
+|
+|{{Hunger|14}}
+|{{saturation|28}}
+|-
+|[[Pecan Pie]]
+|{{Empty Grid|pecan pie}}
+|Pie
+|
+|{{Hunger|14}}
+|{{saturation|28}}
+|-
+|[[Rhubarb Pie]]
+|{{Empty Grid|rhubarb pie}}
+|Pie
+|
+|{{Hunger|14}}
+|{{saturation|28}}
+|-
+|[[Paprika]]
+|{{Empty Grid|paprika}}
+|Item
+|
+|{{Hunger|}}
+|{{saturation|}}
+|-
+|[[Salt]]
+|{{Empty Grid|salt}}
+|Item
+|
+|{{Hunger|}}
+|{{saturation|}}
+|-
+|[[Olive Oil]]
+|{{Empty Grid|olive oil}}
+|Item
+|
+|{{Hunger|}}
+|{{saturation|}}
+|-
+|[[Cheese]]
+|{{Empty Grid|cheese}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Flour]]
+|{{Empty Grid|flour}}
+|Item
+|
+|{{Hunger|}}
+|{{saturation|}}
+|-
+|[[Butter]]
+|{{Empty Grid|butter}}
+|Item
+|
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Noodle]]
+|{{Empty Grid|noodle}}
+|Item
+|
+|{{Hunger|}}
+|{{saturation|}}
+|-
+|[[Tofu]]
+|{{Empty Grid|tofu}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Chocolate]]
+|{{Empty Grid|chocolate}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Tortilla]]
+|{{Empty Grid|tortilla}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Soy Sauce]]
+|{{Empty Grid|soy sauce}}
+|Item
+|
+|{{Hunger|}}
+|{{saturation|}}
+|-
+|[[Dough]]
+|{{Empty Grid|dough}}
+|Item
+|
+|{{Hunger|}}
+|{{saturation|}}
+|-
+|[[Ravioli]]
+|{{Empty Grid|ravioli}}
+|Item
+|
+|{{Hunger|}}
+|{{saturation|}}
+|-
+|[[Salsa]]
+|{{Empty Grid|salsa}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Artichoke Dip]]
+|{{Empty Grid|artichoke dip}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Pepperoni]]
+|{{Empty Grid|pepperoni}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Coffee]]
+|{{Empty Grid|coffee}}
+|Drink
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Lemonade]]
+|{{Empty Grid|lemonade}}
+|Drink
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Limeade]]
+|{{Empty Grid|limeade}}
+|Drink
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Soy Milk]]
+|{{Empty Grid|soy milk}}
+|Drink
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Kale Smoothie]]
+|{{Empty Grid|kale smoothie}}
+|Drink
+|
+|{{Hunger|14}}
+|{{saturation|28}}
+|-
+|[[Fruit Smoothie]]
+|{{Empty Grid|fruit smoothie}}
+|Drink
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Chocolate Milkshake]]
+|{{Empty Grid|chocolate milkshake}}
+|Drink
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Beer]]
+|{{Empty Grid|beer}}
+|Drink
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Wine]]
+|{{Empty Grid|wine}}
+|Drink
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Mead]]
+|{{Empty Grid|mead}}
+|Drink
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Rum]]
+|{{Empty Grid|rum}}
+|Drink
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Pumpkin Spice Latte]]
+|{{Empty Grid|pumpkin spice latte}}
+|Drink
+|
+|{{Hunger|14}}
+|{{saturation|28}}
+|-
+|[[Beef Jerky]]
+|{{Empty Grid|beef jerky}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Pork Jerky]]
+|{{Empty Grid|pork jerky}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Kale Chips]]
+|{{Empty Grid|kale chips}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Potato Chips]]
+|{{Empty Grid|potato chips}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Steamed Rice]]
+|{{Empty Grid|steamed rice}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[French Fries]]
+|{{Empty Grid|french fries}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Sweet Potato Fries]]
+|{{Empty Grid|sweet potato fries}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Onion Rings]]
+|{{Empty Grid|onion rings}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Doughnut]]
+|{{Empty Grid|doughnut}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Cucumber Salad]]
+|{{Empty Grid|cucumber salad}}
+|Soup
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Caesar Salad]]
+|{{Empty Grid|caesar salad}}
+|Soup
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Leafy Salad]]
+|{{Empty Grid|leafy salad}}
+|Soup
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Fruit Salad]]
+|{{Empty Grid|fruit salad}}
+|Soup
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Veggie Salad]]
+|{{Empty Grid|veggie salad}}
+|Soup
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Pork And Beans]]
+|{{Empty Grid|pork and beans}}
+|Soup
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Oatmeal]]
+|{{Empty Grid|oatmeal}}
+|Soup
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Leek Soup]]
+|{{Empty Grid|leek soup}}
+|Soup
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Yoghurt]]
+|{{Empty Grid|yoghurt}}
+|Soup
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Saucy Chips]]
+|{{Empty Grid|saucy chips}}
+|Soup
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Roasted Nuts]]
+|{{Empty Grid|roasted nuts}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Trail Mix]]
+|{{Empty Grid|trail mix}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Protein Bar]]
+|{{Empty Grid|protein bar}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Nougat]]
+|{{Empty Grid|nougat}}
+|Item
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Scrambled Eggs]]
+|{{Empty Grid|scrambled eggs}}
+|Item
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Buttered Toast]]
+|{{Empty Grid|buttered toast}}
+|Item
+|
+|{{Hunger|9}}
+|{{saturation|14}}
+|-
+|[[Toast With Jam]]
+|{{Empty Grid|toast with jam}}
+|Item
+|
+|{{Hunger|9}}
+|{{saturation|14}}
+|-
+|[[Ham Sandwich]]
+|{{Empty Grid|ham sandwich}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Peanut Butter And Jam]]
+|{{Empty Grid|peanut butter and jam}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Blt]]
+|{{Empty Grid|blt}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Grilled Cheese]]
+|{{Empty Grid|grilled cheese}}
+|Item
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Tuna Sandwich]]
+|{{Empty Grid|tuna sandwich}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Cheeseburger]]
+|{{Empty Grid|cheeseburger}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Hamburger]]
+|{{Empty Grid|hamburger}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Tofuburger]]
+|{{Empty Grid|tofuburger}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Pizza]]
+|{{Empty Grid|pizza}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Supreme Pizza]]
+|{{Empty Grid|supreme pizza}}
+|Item
+|
+|{{Hunger|18}}
+|{{saturation|44}}
+|-
+|[[Cheese Pizza]]
+|{{Empty Grid|cheese pizza}}
+|Item
+|
+|{{Hunger|14}}
+|{{saturation|28}}
+|-
+|[[Pineapple Pepperoni Pizza]]
+|{{Empty Grid|pineapple pepperoni pizza}}
+|Item
+|
+|{{Hunger|18}}
+|{{saturation|44}}
+|-
+|[[Lemon Chicken]]
+|{{Empty Grid|lemon chicken}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Fried Chicken]]
+|{{Empty Grid|fried chicken}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Chicken And Noodles]]
+|{{Empty Grid|chicken and noodles}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Chicken And Dumplings]]
+|{{Empty Grid|chicken and dumplings}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Tofu And Dumplings]]
+|{{Empty Grid|tofu and dumplings}}
+|Item
+|
+|{{Hunger|14}}
+|{{saturation|28}}
+|-
+|[[Spaghetti Squash]]
+|{{Empty Grid|spaghetti squash}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Chicken And Rice]]
+|{{Empty Grid|chicken and rice}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Taco]]
+|{{Empty Grid|taco}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Sushi]]
+|{{Empty Grid|sushi}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Egg Roll]]
+|{{Empty Grid|egg roll}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Cashew Chicken]]
+|{{Empty Grid|cashew chicken}}
+|Item
+|
+|{{Hunger|14}}
+|{{saturation|28}}
+|-
+|[[Yam Jam]]
+|{{Empty Grid|yam jam}}
+|Item
+|
+|{{Hunger|14}}
+|{{saturation|28}}
+|-
+|[[Banana Cream Pie]]
+|{{Empty Grid|banana cream pie}}
+|Item
+|
+|{{Hunger|14}}
+|{{saturation|28}}
+|-
+|[[Candy Corn]]
+|{{Empty Grid|candy corn}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Rum Raisin Ice Cream]]
+|{{Empty Grid|rum raisin ice cream}}
+|Item
+|
+|{{Hunger|14}}
+|{{saturation|28}}
+|-
+|[[Cheese Cake]]
+|{{Empty Grid|cheese cake}}
+|Item
+|
+|{{Hunger|14}}
+|{{saturation|28}}
+|-
+|[[Brownies]]
+|{{Empty Grid|brownies}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Snicker Doodle]]
+|{{Empty Grid|snicker doodle}}
+|Item
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Banana Nut Bread]]
+|{{Empty Grid|banana nut bread}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Candied Nuts]]
+|{{Empty Grid|candied nuts}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Almond Brittle]]
+|{{Empty Grid|almond brittle}}
+|Item
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Oatmeal Cookie]]
+|{{Empty Grid|oatmeal cookie}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Nutty Cookie]]
+|{{Empty Grid|nutty cookie}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Burrito]]
+|{{Empty Grid|burrito}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Tostada]]
+|{{Empty Grid|tostada}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Horchata]]
+|{{Empty Grid|horchata}}
+|Drink
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Carnitas]]
+|{{Empty Grid|carnitas}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Fajitas]]
+|{{Empty Grid|fajitas}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Enchilada]]
+|{{Empty Grid|enchilada}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Churros]]
+|{{Empty Grid|churros}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Tamales]]
+|{{Empty Grid|tamales}}
+|Item
+|
+|{{Hunger|14}}
+|{{saturation|28}}
+|-
+|[[Tres Leche Cake]]
+|{{Empty Grid|tres leche cake}}
+|Item
+|
+|{{Hunger|18}}
+|{{saturation|44}}
+|-
+|[[Stuffed Poblanos]]
+|{{Empty Grid|stuffed poblanos}}
+|Item
+|
+|{{Hunger|14}}
+|{{saturation|28}}
+|-
+|[[Chili Relleno]]
+|{{Empty Grid|chili relleno}}
+|Item
+|
+|{{Hunger|14}}
+|{{saturation|28}}
+|-
+|[[Crema]]
+|{{Empty Grid|crema}}
+|Item
+|
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Refried Beans]]
+|{{Empty Grid|refried beans}}
+|Item
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Chimichanga]]
+|{{Empty Grid|chimichanga}}
+|Item
+|
+|{{Hunger|14}}
+|{{saturation|28}}
+|-
+|[[Quesadilla]]
+|{{Empty Grid|quesadilla}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Corn Husk]]
+|{{Empty Grid|corn husk}}
+|Item
+|
+|{{Hunger|}}
+|{{saturation|}}
+|-
+|[[Whipping Cream]]
+|{{Empty Grid|whipping cream}}
+|Item
+|
+|{{Hunger|}}
+|{{saturation|}}
+|-
+|[[Shepherds Pie]]
+|{{Empty Grid|shepherds pie}}
+|Item
+|
+|{{Hunger|18}}
+|{{saturation|44}}
+|-
+|[[Beef Wellington]]
+|{{Empty Grid|beef wellington}}
+|Item
+|
+|{{Hunger|18}}
+|{{saturation|44}}
+|-
+|[[Fish And Chips]]
+|{{Empty Grid|fish and chips}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Eton Mess]]
+|{{Empty Grid|eton mess}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Tea]]
+|{{Empty Grid|tea}}
+|Drink
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Cornish Pasty]]
+|{{Empty Grid|cornish pasty}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Scones]]
+|{{Empty Grid|scones}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Figgy Pudding]]
+|{{Empty Grid|figgy pudding}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Treacle Tart]]
+|{{Empty Grid|treacle tart}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Sticky Toffee Pudding]]
+|{{Empty Grid|sticky toffee pudding}}
+|Item
+|
+|{{Hunger|14}}
+|{{saturation|28}}
+|-
+|[[Trifle]]
+|{{Empty Grid|trifle}}
+|Item
+|
+|{{Hunger|14}}
+|{{saturation|28}}
+|-
+|[[Water Bottle]]
+|{{Empty Grid|water bottle}}
+|Item
+|
+|{{Hunger|}}
+|{{saturation|}}
+|-
+|[[Milk Bottle]]
+|{{Empty Grid|milk bottle}}
+|Item
+|
+|{{Hunger|}}
+|{{saturation|}}
+|-
+|[[Ajvar]]
+|{{Empty Grid|ajvar}}
+|Item
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Ajvar Toast]]
+|{{Empty Grid|ajvar toast}}
+|Item
+|
+|{{Hunger|14}}
+|{{saturation|28}}
+|-
+|[[Avocado Toast]]
+|{{Empty Grid|avocado toast}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Beef Stew]]
+|{{Empty Grid|beef stew}}
+|Item
+|
+|{{Hunger|14}}
+|{{saturation|28}}
+|-
+|[[Beef Stir Fry]]
+|{{Empty Grid|beef stir fry}}
+|Item
+|
+|{{Hunger|14}}
+|{{saturation|28}}
+|-
+|[[Buttered Green Beans]]
+|{{Empty Grid|buttered green beans}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Cheesy Asparagus]]
+|{{Empty Grid|cheesy asparagus}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Chocolate Ice Cream]]
+|{{Empty Grid|chocolate ice cream}}
+|Item
+|
+|{{Hunger|14}}
+|{{saturation|28}}
+|-
+|[[Eggplant Parmesan]]
+|{{Empty Grid|eggplant parmesan}}
+|Item
+|
+|{{Hunger|18}}
+|{{saturation|44}}
+|-
+|[[Fruit Cake]]
+|{{Empty Grid|fruit cake}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Grilled Eggplant]]
+|{{Empty Grid|grilled eggplant}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Kiwi Sorbet]]
+|{{Empty Grid|kiwi sorbet}}
+|Item
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Lemon Coconut Bar]]
+|{{Empty Grid|lemon coconut bar}}
+|Item
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Nether Wart Stew]]
+|{{Empty Grid|nether wart stew}}
+|Item
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Peanut Butter]]
+|{{Empty Grid|peanut butter}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Peanut Butter W Celery]]
+|{{Empty Grid|peanut butter w celery}}
+|Item
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Potato Soup]]
+|{{Empty Grid|potato soup}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Ratatouille]]
+|{{Empty Grid|ratatouille}}
+|Item
+|
+|{{Hunger|18}}
+|{{saturation|44}}
+|-
+|[[Raw Bacon]]
+|{{Empty Grid|raw bacon}}
+|Item
+|
+|{{Hunger|1}}
+|{{saturation|1}}
+|-
+|[[Rhubarb Crisp]]
+|{{Empty Grid|rhubarb crisp}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Roasted Asparagus]]
+|{{Empty Grid|roasted asparagus}}
+|Item
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Roasted Radishes]]
+|{{Empty Grid|roasted radishes}}
+|Item
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Roasted Squash]]
+|{{Empty Grid|roasted squash}}
+|Item
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Roasted Turnips]]
+|{{Empty Grid|roasted turnips}}
+|Item
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Steamed Broccoli]]
+|{{Empty Grid|steamed broccoli}}
+|Item
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Steamed Green Beans]]
+|{{Empty Grid|steamed green beans}}
+|Item
+|
+|{{Hunger|7}}
+|{{saturation|9}}
+|-
+|[[Stir Fry]]
+|{{Empty Grid|stir fry}}
+|Item
+|
+|{{Hunger|12}}
+|{{saturation|22}}
+|-
+|[[Stuffed Artichoke]]
+|{{Empty Grid|stuffed artichoke}}
+|Item
+|
+|{{Hunger|18}}
+|{{saturation|44}}
+|-
+|[[Toast Sandwich]]
+|{{Empty Grid|toast sandwich}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Roasted Pumpkin Seeds]]
+|{{Empty Grid|roasted pumpkin seeds}}
+|Item
+|
+|{{Hunger|4}}
+|{{saturation|3}}
+|-
+|[[Roasted Sunflower Seeds]]
+|{{Empty Grid|roasted sunflower seeds}}
+|Item
+|
+|{{Hunger|4}}
+|{{saturation|3}}
+|-
+|[[Pumpkin Bars]]
+|{{Empty Grid|pumpkin bars}}
+|Item
+|
+|{{Hunger|6}}
+|{{saturation|8}}
+|-
+|[[Corn Bread]]
+|{{Empty Grid|corn bread}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Pumpkin Soup]]
+|{{Empty Grid|pumpkin soup}}
+|Soup
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Meringue]]
+|{{Empty Grid|meringue}}
+|Item
+|
+|{{Hunger|6}}
+|{{saturation|8}}
+|-
+|[[Cabbage Roll]]
+|{{Empty Grid|cabbage roll}}
+|Item
+|
+|{{Hunger|14}}
+|{{saturation|28}}
+|-
+|[[Borscht]]
+|{{Empty Grid|borscht}}
+|Item
+|
+|{{Hunger|12}}
+|{{saturation|22}}
+|-
+|[[Goulash]]
+|{{Empty Grid|goulash}}
+|Item
+|
+|{{Hunger|16}}
+|{{saturation|36}}
+|-
+|[[Beetroot Salad]]
+|{{Empty Grid|beetroot salad}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Candied Kumquats]]
+|{{Empty Grid|candied kumquats}}
+|Item
+|
+|{{Hunger|6}}
+|{{saturation|8}}
+|-
+|[[Steamed Crab]]
+|{{Empty Grid|steamed crab}}
+|Item
+|
+|{{Hunger|6}}
+|{{saturation|8}}
+|-
+|[[Sea Lettuce]]
+|{{Empty Grid|sea lettuce}}
+|Item
+|
+|{{Hunger|1}}
+|{{saturation|1}}
+|-
+|[[Deep Fried Shrimp]]
+|{{Empty Grid|deep fried shrimp}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Tuna Roll]]
+|{{Empty Grid|tuna roll}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Fried Calamari]]
+|{{Empty Grid|fried calamari}}
+|Item
+|
+|{{Hunger|10}}
+|{{saturation|17}}
+|-
+|[[Crab Legs]]
+|{{Empty Grid|crab legs}}
+|Item
+|
+|{{Hunger|11}}
+|{{saturation|19}}
+|-
+|[[Steamed Clams]]
+|{{Empty Grid|steamed clams}}
+|Item
+|
+|{{Hunger|11}}
+|{{saturation|19}}
+|-
+|[[Grilled Oysters]]
+|{{Empty Grid|grilled oysters}}
+|Item
+|
+|{{Hunger|11}}
+|{{saturation|19}}
+|-
+|[[Anchovy Pizza]]
+|{{Empty Grid|anchovy pizza}}
+|Item
+|
+|{{Hunger|15}}
+|{{saturation|32}}
+|-
+|[[Mashed Potatoes]]
+|{{Empty Grid|mashed potatoes}}
+|Item
+|
+|{{Hunger|9}}
+|{{saturation|14}}
+|-
+|[[Baked Crepes]]
+|{{Empty Grid|baked crepes}}
+|Item
+|
+|{{Hunger|12}}
+|{{saturation|22}}
+|-
+|[[Cinnamon Roll]]
+|{{Empty Grid|cinnamon roll}}
+|Item
+|
+|{{Hunger|8}}
+|{{saturation|10}}
+|-
+|[[Croque Madame]]
+|{{Empty Grid|croque madame}}
+|Item
+|
+|{{Hunger|14}}
+|{{saturation|28}}
+|-
+|[[Croque Monsieur]]
+|{{Empty Grid|croque monsieur}}
+|Item
+|
+|{{Hunger|13}}
+|{{saturation|25}}
+|-
+|[[Dauphine Potatoes]]
+|{{Empty Grid|dauphine potatoes}}
+|Item
+|
+|{{Hunger|12}}
+|{{saturation|22}}
+|-
+|[[Fried Frog Legs]]
+|{{Empty Grid|fried frog legs}}
+|Item
+|
+|{{Hunger|6}}
+|{{saturation|8}}
+|-
+|[[Frog Legs]]
+|{{Empty Grid|frog legs}}
+|Item
+|
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Ground Pork]]
+|{{Empty Grid|ground pork}}
+|Item
+|
+|{{Hunger|1}}
+|{{saturation|1}}
+|-
+|[[Hashed Brown]]
+|{{Empty Grid|hashed brown}}
+|Item
+|
+|{{Hunger|2}}
+|{{saturation|1}}
+|-
+|[[Macaron]]
+|{{Empty Grid|macaron}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Quiche]]
+|{{Empty Grid|quiche}}
+|Item
+|
+|{{Hunger|12}}
+|{{saturation|22}}
+|-
+|[[Sausage]]
+|{{Empty Grid|sausage}}
+|Item
+|
+|{{Hunger|3}}
+|{{saturation|2}}
+|-
+|[[Sunny Side Eggs]]
+|{{Empty Grid|sunny side eggs}}
+|Item
+|
+|{{Hunger|5}}
+|{{saturation|7}}
+|-
+|[[Sweet Crepes]]
+|{{Empty Grid|sweet crepes}}
+|Item
+|
+|{{Hunger|8}}
+|{{saturation|10}}
+|-
+|[[The Big Breakfast]]
+|{{Empty Grid|the big breakfast}}
+|ReferenceItem
+|
+|{{Hunger|20}}
+|{{saturation|52}}
+|}
